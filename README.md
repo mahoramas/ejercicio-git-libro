@@ -26,3 +26,11 @@ Date:   Mon Nov 18 19:23:32 2024 +0000
     Initial commit
 
 ```
+## Ejercicio 2
+```code
+bae2@jpexposito-VirtualBox:~/ejercicio-git-libro$ cat > capitulos/capitulo2.txt
+ El flujo de trabajo básico con Git consiste en:
+ 1- Hacer cambios en el repositorio.
+ 2- Añadir los cambios a la zona de intercambio temporal.
+ 3- Hacer un commit de los cambios.
+```

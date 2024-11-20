@@ -60,3 +60,24 @@ index 9a06b52..e690d60 100644
 +
 :
 ```
+## Ejercicio 3
+
+```code
+    git status
+En la rama main
+Tu rama está adelantada a 'origin/main' por 4 commits.
+  (usa "git push" para publicar tus commits locales)
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+        modificados:     README.md
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+        capitulos/Capitulo3.txt
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")ç
+    git add .
+    git commit -m "Añadido capitulo 3 y cambios al README"
+[main af2c8e6] Añadido capitulo 3 y cambios al README
+ 2 files changed, 84 insertions(+)
+ create mode 100644 capitulos/Capitulo3.txt
+```
